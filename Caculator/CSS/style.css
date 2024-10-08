@@ -1,0 +1,36 @@
+
+.main{
+    width: auto;
+    border-radius: 10px ;
+border: 2px solid rgb(0, 0, 0);
+}
+.table-responsive{
+    width:350px;
+    background: #fff;
+}
+.t-box{
+    border-radius: 5px;
+    height: 100px;
+    width: 330px;   
+    cursor: pointer;
+    color: #fff;
+    font-size: 30px;
+}
+.btn{
+    width:75px;
+    height: 75px;
+    border-radius: 60px;
+    border: none;
+    font-weight: bold;
+    font-size: larger;
+}
+.btn:hover{
+    background-color:#ffff;
+    color: #ff0000;
+    box-shadow: 0 5px 15px rgb(0, 0, 0);
+}
+.btn-warning:hover{
+    background-color:#000000;
+    color: #ff0000;
+    box-shadow: 0 5px 15px rgb(0, 0, 0);
+}
